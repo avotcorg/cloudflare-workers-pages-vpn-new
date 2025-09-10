@@ -17,3 +17,7 @@ trojan://aaaaaaaa-bbbb-4ccc-8ccc-dddddddddddd@xxxxxxxx.tk.cdn.cloudflare.net:443
 trojan://aaaaaaaa-bbbb-4ccc-8ccc-dddddddddddd@xxxxxxxx.tk.cdn.cloudflare.net:443?security=tls&sni=域名&fp=randomized&allowInsecure=1&type=ws&host=%E5%9F%9F%E5%90%8D&path=%2FOTC/156.244.1.250:8443#OTC
 ```
 ### UUID 没去做固定 只要符合 V4 就能用
+
+
+### 友情提示  国家简称后面 可以加数字 比如 US1、US2、US3、US4 且到不同的反代中
+
