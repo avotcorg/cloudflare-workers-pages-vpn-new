@@ -19,5 +19,5 @@ trojan://aaaaaaaa-bbbb-4ccc-8ccc-dddddddddddd@xxxxxxxx.tk.cdn.cloudflare.net:443
 ### UUID 没去做固定 只要符合 V4 就能用
 
 
-### 友情提示  国家简称后面 可以加数字 比如 US1、US2、US3、US4 且到不同的反代中
+### 友情提示  国家简称后面 可以加数字 比如 US1、US2、US3、US4 切到不同的反代中
 
